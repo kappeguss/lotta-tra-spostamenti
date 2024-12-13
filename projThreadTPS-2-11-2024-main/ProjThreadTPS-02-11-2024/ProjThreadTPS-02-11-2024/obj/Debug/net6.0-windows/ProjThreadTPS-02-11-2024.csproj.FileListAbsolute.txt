@@ -1,0 +1,16 @@
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\ProjThreadTPS_02_11_2024.Form1.resources
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.csproj.GenerateResource.cache
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.AssemblyInfoInputs.cache
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.AssemblyInfo.cs
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.csproj.CoreCompileInputs.cache
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\bin\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.exe
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\bin\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.deps.json
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\bin\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.runtimeconfig.json
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\bin\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.dll
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\bin\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.pdb
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.dll
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\refint\ProjThreadTPS-02-11-2024.dll
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.pdb
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\ProjThreadTPS-02-11-2024.genruntimeconfig.cache
+C:\Users\colombo.21191\Desktop\projThreadTPS-2-11-2024\ProjThreadTPS-02-11-2024\ProjThreadTPS-02-11-2024\obj\Debug\net6.0-windows\ref\ProjThreadTPS-02-11-2024.dll

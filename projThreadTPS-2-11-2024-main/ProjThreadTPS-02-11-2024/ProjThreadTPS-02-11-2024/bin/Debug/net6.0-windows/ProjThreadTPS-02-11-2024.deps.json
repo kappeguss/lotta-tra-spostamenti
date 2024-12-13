@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProjThreadTPS-02-11-2024/1.0.0": {
+        "runtime": {
+          "ProjThreadTPS-02-11-2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjThreadTPS-02-11-2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
